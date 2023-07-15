@@ -13,7 +13,4 @@
 |LagCompensator|metamod|https://github.com/DrAbcOfficial/lagcompensator|
 |svencontra2|AngelScript|http://scmapdb.com/map:svencontra2|
 |as stuffs|AngelScripts |https://github.com/DrAbcOfficial/AngelScripts|
-|Resouce Installer|Exe|https://github.com/DrAbcOfficial/Sven-Charactor
-|tcla|AngelScripts|https://github.com/DrAbcOfficial/tcla|
 |ParanoiaWeapons|AngelScripts|https://github.com/DrAbcOfficial/ParanoiaWeapons|
-|Svencoop-DeathMatch|AngelScripts|https://github.com/DrAbcOfficial/Svencoop-DeathMatch|
