@@ -1,6 +1,5 @@
-<a href="http://rickrolled.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrAbcOfficial&show_icons=true&theme=tokyonight&" alt="彩虹转转" height=160x draggable="true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAbcOfficial&layout=compact&theme=tokyonight" alt="牛子波" height=160x draggable="true"/>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=4s/">
+  <img align="center" src="https://github.com/DrAbcOfficial/DrAbcOfficial/blob/94a89ff47b625a968ff6d90a373f05cd4f8aa7da/R.gif"/>
 </a>
 
 ---
