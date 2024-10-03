@@ -15,4 +15,4 @@
 |as stuffs|AngelScripts |https://github.com/DrAbcOfficial/AngelScripts|
 |ParanoiaWeapons|AngelScripts|https://github.com/DrAbcOfficial/ParanoiaWeapons|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAbcOfficial)](https://github.com/DrAbcOfficial/github-readme-stats)
