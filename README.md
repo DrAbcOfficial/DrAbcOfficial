@@ -14,3 +14,5 @@
 |svencontra2|AngelScript|http://scmapdb.com/map:svencontra2|
 |as stuffs|AngelScripts |https://github.com/DrAbcOfficial/AngelScripts|
 |ParanoiaWeapons|AngelScripts|https://github.com/DrAbcOfficial/ParanoiaWeapons|
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
